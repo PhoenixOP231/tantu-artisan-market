@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/*.db*
+uploads/*
+!uploads/.gitkeep
+.env
+.env.*
+*.log
+
+.vercel
